@@ -18,31 +18,32 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "alefragnani.project-manager", 
-    "bierner.color-info", 
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "bierner.color-info",
     "brunnerh.file-properties-viewer",
     "charliermarsh.ruff",
-    "eamodio.gitlens", 
-    "github.github-vscode-theme", 
-    "github.vscode-github-actions", 
-    "github.vscode-pull-request-github", 
-    "gruntfuggly.todo-tree", 
-    "johnpapa.vscode-peacock", 
-    "mechatroner.rainbow-csv", 
-    "mhutchie.git-graph", 
-    "mikestead.dotenv", 
+    "eamodio.gitlens",
+    "github.github-vscode-theme",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "gruntfuggly.todo-tree",
+    "johnpapa.vscode-peacock",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
     "ms-pyright.pyright",
     "ms-vscode.live-server",
     "posit.shiny",
     "posit.publisher",
-    "pucelle.vscode-css-navigation", 
-    "quarto.quarto", 
-    "redhat.vscode-yaml", 
-    "stkb.rewrap", 
+    "pucelle.vscode-css-navigation",
+    "quarto.quarto",
+    "redhat.vscode-yaml",
+    "stkb.rewrap",
     "streetsidesoftware.code-spell-checker"
   ],
   "scripts": {
-    "vsix": "npx @vscode/vsce package"
+    "vsix": "npx @vscode/vsce package",
+    "publish:open-vsx": "npx ovsx publish"
   }
 }
