@@ -1,10 +1,10 @@
-# positron-plus-1-e
+# Positron +1e
 
-## An unopinionated Extension Pack for Positron
+## An Extension Pack for Positron
 
-This is an lightly-opinionated extension pack for [Positron](https://github.com/posit-dev/positron), a next-generation data science IDE.
+This is a lightly-opinionated extension pack for [Positron](https://github.com/posit-dev/positron), a next-generation data science IDE.
 
-These are extensions I use in my daily work and that round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub.
+These are extensions I use in my daily work and that I feel round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub.
 
 Recommendations, suggestions, comments and PRs are welcome!
 
