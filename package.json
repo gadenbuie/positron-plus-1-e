@@ -44,6 +44,9 @@
   ],
   "scripts": {
     "vsix": "npx @vscode/vsce package",
-    "publish:open-vsx": "npx ovsx publish"
+    "publish:open-vsx": "env-cmd npx ovsx publish"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0"
   }
 }
