@@ -1,0 +1,48 @@
+{
+  "name": "positron-plus-1-e",
+  "displayName": "Positron +1e",
+  "description": "A Positron extension pack for dev and data science.",
+  "version": "0.0.1",
+  "publisher": "grrrck",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gadenbuie/positron-plus-1-e"
+  },
+  "homepage": "https://github.com/gadenbuie/positron-plus-1-e",
+  "bugs": {
+    "url": "https://github.com/gadenbuie/positron-plus-1-e/issues"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "alefragnani.project-manager", 
+    "bierner.color-info", 
+    "brunnerh.file-properties-viewer",
+    "charliermarsh.ruff",
+    "eamodio.gitlens", 
+    "github.github-vscode-theme", 
+    "github.vscode-github-actions", 
+    "github.vscode-pull-request-github", 
+    "gruntfuggly.todo-tree", 
+    "johnpapa.vscode-peacock", 
+    "mechatroner.rainbow-csv", 
+    "mhutchie.git-graph", 
+    "mikestead.dotenv", 
+    "ms-pyright.pyright",
+    "ms-vscode.live-server",
+    "posit.shiny",
+    "posit.publisher",
+    "pucelle.vscode-css-navigation", 
+    "quarto.quarto", 
+    "redhat.vscode-yaml", 
+    "stkb.rewrap", 
+    "streetsidesoftware.code-spell-checker"
+  ],
+  "scripts": {
+    "vsix": "npx @vscode/vsce package"
+  }
+}
