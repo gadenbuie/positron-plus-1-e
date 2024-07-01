@@ -2,7 +2,7 @@
 
 ## An unopinionated Extension Pack for Positron
 
-This is an lightly-opinionated extension pack for Positron, a next-generation data science IDE.
+This is an lightly-opinionated extension pack for [Positron](https://github.com/posit-dev/positron), a next-generation data science IDE.
 
 These are extensions I use in my daily work and that round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub.
 
