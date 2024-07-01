@@ -4,6 +4,7 @@
   "description": "A Positron extension pack for dev and data science.",
   "version": "0.0.1",
   "publisher": "grrrck",
+  "logo": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/gadenbuie/positron-plus-1-e"
