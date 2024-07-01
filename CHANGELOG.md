@@ -6,6 +6,11 @@
   Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. 
 -->
 
+## [0.0.2]
+
+- Added a new logo
+- Link back to [Positron](https://github.com/posit-dev/positron) in the README
+
 ## [0.0.1]
 
 - 🎒 Initial release!
