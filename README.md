@@ -4,7 +4,12 @@
 
 This is a lightly-opinionated extension pack for [Positron](https://github.com/posit-dev/positron), a next-generation data science IDE.
 
-These are extensions I use in my daily work and that I feel round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub.
+These are extensions I use in my daily work and that I feel round out the Positron experience. The extensions lean towards git-backed data science and dev work shared primarily on GitHub. 
+
+The extensions are also great in VS Code (or any other VS Code-based IDE), but the pack is optimized for Positron in two ways:
+
+1. All extensions are available on the [Open VSX Registry](https://open-vsx.org/), the open-source VS Code extension registry, and are licensed to be used outside of VS Code.
+2. More than a few extensions that I use and need in VS Code _aren't on the list_ because Positron already provides native support for them. (Many R and Python extensions, for example.)
 
 Recommendations, suggestions, comments and PRs are welcome!
 
