@@ -1,7 +1,7 @@
 {
   "name": "positron-plus-1-e",
   "displayName": "Positron +1e",
-  "description": "A Positron extension pack for dev and data science.",
+  "description": "A lightly-opinionated Positron extension pack for dev and data science.",
   "version": "0.0.4",
   "publisher": "grrrck",
   "icon": "logo.png",
