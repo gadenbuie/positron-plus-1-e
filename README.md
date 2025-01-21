@@ -20,6 +20,7 @@ Recommendations, suggestions, comments and PRs are welcome!
 -  [posit.shiny](https://open-vsx.org/extension/posit/shiny) - Develop, preview and debug Shiny applications for R and Python.
 -  [posit.publisher](https://open-vsx.org/extension/posit/publisher) - Publish and share your Python and R content on Posit Connect.
 -  [quarto.quarto](https://open-vsx.org/extension/quarto/quarto) - Adds extensive support for the [Quarto](https://quarto.org/) scientific and technical publishing system.
+-  [posit.air-vscode](https://open-vsx.org/extension/posit/air-vscode) - Automatically format R code in scripts and Quarto documents.
 
 ### Project Management
 

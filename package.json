@@ -2,7 +2,7 @@
   "name": "positron-plus-1-e",
   "displayName": "Positron +1e",
   "description": "A lightly-opinionated Positron extension pack for dev and data science.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "grrrck",
   "icon": "logo.png",
   "repository": {
@@ -37,6 +37,7 @@
     "ms-vscode.live-server",
     "posit.shiny",
     "posit.publisher",
+    "posit.air-vscode",
     "pucelle.vscode-css-navigation",
     "quarto.quarto",
     "redhat.vscode-yaml",

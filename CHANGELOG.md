@@ -6,6 +6,10 @@
   Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. 
 -->
 
+## [0.0.5]
+
+- Add [air](https://open-vsx.org/extension/posit/air-vscode) to the extension pack
+
 ## [0.0.2]
 
 - Added a new logo
