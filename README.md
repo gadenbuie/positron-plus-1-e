@@ -50,5 +50,6 @@ Recommendations, suggestions, comments and PRs are welcome!
 
 -  [bierner.color-info](https://open-vsx.org/extension/bierner/color-info) - Displays color information for a given color code.
 -  [github.github-vscode-theme](https://open-vsx.org/extension/github/github-vscode-theme) - The official GitHub Visual Studio Code theme.
+-  [gvelasq.tomorrow-night-bright-r-classic](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic) - A theme inspired by Posit's implementation of the Tomorrow Night Bright theme in the RStudio IDE.
 -  [mechatroner.rainbow-csv](https://open-vsx.org/extension/mechatroner/rainbow-csv) - Highlights CSV files in different colors.
 -  [johnpapa.vscode-peacock](https://open-vsx.org/extension/johnpapa/vscode-peacock) - Subtly customize IDE appearance to differentiate between different project windows.

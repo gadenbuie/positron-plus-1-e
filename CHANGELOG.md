@@ -3,6 +3,8 @@
 <!-- 
   All notable changes to the "positron-plus-1-e" extension pack will be documented in this file.
 
+- Add [tomorrow-night-bright-r-classic](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic) to the extension pack
+
   Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. 
 -->
 
