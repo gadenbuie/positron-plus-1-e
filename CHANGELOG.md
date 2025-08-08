@@ -6,6 +6,10 @@
   Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 -->
 
+## [0.0.7]
+
+- Added [Right Click Open Here](https://open-vsx.org/extension/SamEdwardes/right-click-open-here) to the extension pack
+
 ## [0.0.6]
 
 - Added [tomorrow-night-bright-r-classic](https://open-vsx.org/extension/gvelasq/tomorrow-night-bright-r-classic) to the extension pack
